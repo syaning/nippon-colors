@@ -1,0 +1,25 @@
+{
+  "name": "nippon-colors",
+  "version": "1.0.0",
+  "description": "Japanese traditional colors",
+  "main": "colors.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syaning/nippon-colors.git"
+  },
+  "keywords": [
+    "nippon",
+    "colors",
+    "japanese",
+    "traditional"
+  ],
+  "author": "Alex Sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syaning/nippon-colors/issues"
+  },
+  "homepage": "https://github.com/syaning/nippon-colors#readme"
+}
